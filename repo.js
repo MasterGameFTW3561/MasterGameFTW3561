@@ -7,5 +7,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/MasterGameFTW3561/MasterGameFTW3561/master/"
 	],
-	"title": "MGFTWH3561's Mods Repository"
+	"title": "MGFTWH3561's Mods"
 }
