@@ -1,9 +1,11 @@
 {
 	"contact": "mastergame3561@gmail.com",
-	"id": "Halloween",
-	"patches": {},
+	"id": "JzBoy Styled",
+	"patches": {
+		"JzBoy Styled": "JzBoy Styled by MasterGameFTW3561"
+	},
 	"servers": [
-		"https://github.com/MasterGameFTW3561/MasterGameFTW3561"
+		"C:\\Users\\User\\Documents\\thpatch\\MasterGameFTW3561"
 	],
-	"title": "Akiteru98 the designer and me the modder"
+	"title": "JzBoy Styled by MasterGameFTW3561"
 }
