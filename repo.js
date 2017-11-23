@@ -1,11 +1,11 @@
 {
 	"contact": "mastergame3561@gmail.com",
-	"id": "JzBoy Styled",
+	"id": "MasterGameFTW3561",
 	"patches": {
-		"JzBoy Styled": "JzBoy Styled by MasterGameFTW3561"
+		"JzBoy_Styled": "JzBoy Styled by MasterGameFTW3561 and Art by JzBoy Anims"
 	},
 	"servers": [
-		"C:\\Users\\User\\Documents\\thpatch\\MasterGameFTW3561"
+		"https://raw.githubusercontent.com/MasterGameFTW3561/MasterGameFTW3561/master/"
 	],
-	"title": "JzBoy Styled by MasterGameFTW3561"
+	"title": "MGFTWH3561's Mods Repository"
 }
