@@ -5,7 +5,8 @@
 		"JzBoy_Styled": "JzBoy Styled by MasterGameFTW3561 and Art by JzBoy Anims"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/MasterGameFTW3561/MasterGameFTW3561/master/"
+		"http://thcrap.nmlgc.net/repos/MasterGameFTW3561/",
+        "http://mirrors.thpatch.net/MasterGameFTW3561/"
 	],
 	"title": "MGFTWH3561's Mods"
 }
