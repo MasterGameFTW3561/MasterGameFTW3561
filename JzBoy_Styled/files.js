@@ -1,5 +1,5 @@
 {
-	"patch.js": 2660119426,
+	"patch.js": 1065542336,
 	"th07/data/end/staff01.png": 2372566401,
 	"th07/data/face/marisa/face_mr00.png": 1374221776,
 	"th07/data/face/marisa/face_mr01.png": 818160211,
@@ -26,6 +26,7 @@
 	"th07/data/face/st08/face_08_01.png": 2121827870,
 	"th07/data/face/st08/face_08_02.png": 3510368231,
 	"th07/data/stgenm/stg1enm.png": 2818719447,
+	"th07/data/stgenm/stg2enm.png": 472555141,
 	"th07/data/title/sl_pl00.png": 3243897292,
 	"th07/data/title/sl_pl01.png": 1506699629,
 	"th07/data/title/sl_pl02.png": 2060280358

@@ -4,7 +4,8 @@
 	],
 	"id": "JzBoy_Styled",
 	"servers": [
-		"https://raw.githubusercontent.com/MasterGameFTW3561/MasterGameFTW3561/master/JzBoy_Styled/"
+		"http://thcrap.nmlgc.net/repos/MasterGameFTW3561/JzBoy_Styled/",
+		"http://mirrors.thpatch.net/MasterGameFTW3561/JzBoy_Styled/"
 	],
 	"title": "JzBoy Styled by MasterGameFTW3561 and Art by JzBoy Anims"
 }

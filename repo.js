@@ -6,7 +6,7 @@
 	},
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/MasterGameFTW3561/",
-        "http://mirrors.thpatch.net/MasterGameFTW3561/"
+		"http://mirrors.thpatch.net/MasterGameFTW3561/"
 	],
 	"title": "MGFTWH3561's Mods"
 }
