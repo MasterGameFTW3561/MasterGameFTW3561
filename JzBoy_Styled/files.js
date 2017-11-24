@@ -10,16 +10,13 @@
 	"th07/data/face/st01/face_01_00.png": 4168240164,
 	"th07/data/face/st02/face_02_00(1).png": 1040954973,
 	"th07/data/face/st02/face_02_00.png": 1040954973,
-	"th07/data/face/st03/face_03_00.png": null,
 	"th07/data/face/st04/face_04_00.png": 3660121691,
 	"th07/data/face/st04/face_04_01.png": 3164272410,
 	"th07/data/face/st04/face_04_02.png": 101074115,
 	"th07/data/face/st05/face_05_00.png": 865029025,
-	"th07/data/face/st05/face_05_01(1).png": null,
 	"th07/data/face/st05/face_05_01.png": 1003093218,
 	"th07/data/face/st06/face_06_00.png": 3857305139,
 	"th07/data/face/st06/face_06_01.png": 3389802964,
-	"th07/data/face/st07/face_07_01(1).png": null,
 	"th07/data/face/st07/face_07_01.png": 3565973352,
 	"th07/data/face/st07/face_07_02.png": 2972622731,
 	"th07/data/face/st08/face_08_00.png": 854682229,
@@ -27,7 +24,7 @@
 	"th07/data/face/st08/face_08_02.png": 3510368231,
 	"th07/data/stgenm/stg1enm.png": 2818719447,
 	"th07/data/stgenm/stg2enm.png": 472555141,
-	"th07/data/title/sl_pl00.png": 3243897292,
-	"th07/data/title/sl_pl01.png": 1506699629,
-	"th07/data/title/sl_pl02.png": 2060280358
+	"th07/data/title/sl_pl00.png": 167047558,
+	"th07/data/title/sl_pl01.png": 268715663,
+	"th07/data/title/sl_pl02.png": 2079929139
 }
