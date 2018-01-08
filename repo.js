@@ -3,6 +3,7 @@
 	"id": "MasterGameFTW3561",
 	"patches": {
 		"JzBoy_Styled": "JzBoy Styled by MasterGameFTW3561 and Art by JzBoy Anims"
+		"Hatless": "Hatless Edits by MasterGameFTW3561 (WIP)"
 	},
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/MasterGameFTW3561/",
