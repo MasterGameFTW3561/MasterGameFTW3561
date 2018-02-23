@@ -3,7 +3,7 @@
 	"id": "MasterGameFTW3561",
 	"patches": {
 		"Hatless": "Hatless Edits by MasterGameFTW3561 (WIP)",
-		"JzBoy_Styled": "JzBoy Styled by MasterGameFTW3561 and Art by JzBoy Anims"
+		"JzBoy_Styled": "JzBoy Styled by MasterGameFTW3561 and Art by JzBoy Anims",
 		"Koichi_Pose": "Koichi Pose from JJBA by MasterGameFTW3561 and Art by Fr00sk"
 	},
 	"servers": [
