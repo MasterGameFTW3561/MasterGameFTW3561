@@ -5,7 +5,8 @@
 		"Fr00sk_Styled": "Fr00sk Styled by MasterGameFTW3561 and Art by Fr00sk",
 		"JzBoy_Styled": "JzBoy Styled by MasterGameFTW3561 and Art by JzBoy Anims",
 		"Koichi_Pose": "Koichi_Pose from JJBA by MasterGameFTW3561 and Art by Fr00sk",
-		"Nuclear": "Change the Unyu into Unyuke Touhou 11 only"
+		"Nuclear": "Change the Unyu into Unyuke Touhou 11 only",
+		"YukariSans": "Change Yukari just like Sands"
 	},
 	"servers": [
 		"http://thcrap.nmlgc.net/repos/MasterGameFTW3561/",
